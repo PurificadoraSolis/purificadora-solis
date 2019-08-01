@@ -23,9 +23,9 @@ a{
 }
 header {
     background: linear-gradient(rgba(26, 173, 192, 0.548),
-     rgba(48, 166, 196, 0.788)), url(images/);
+     rgba(48, 166, 196, 0.788)), url(bg.jpg);
     height: 100vh;
-    background-size: cover;
+    background-size: unset;
 }
 .contenedor-titulo {
     max-width: 1580px;
